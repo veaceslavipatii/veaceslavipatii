@@ -1,0 +1,63 @@
+    bug report  
+
+ 
+
+Descriere: utilizatorul nu isi poate modifica  parola  
+
+ 
+
+Prioritate : inalta  
+
+Severitate : inalta  
+
+ 
+
+Pre conditii: 
+
+Dispozitiv desktop 
+
+U test inregistrat 
+
+Conexiune la internet  
+
+ 
+
+ 
+
+Pasii de descriere : 
+
+Porneste dispozitiv 
+
+Conecteazate la retiaua de internet 
+
+Deschide web site 
+
+Tapeaza textul www.Uitest.com 
+
+Da click logare  
+
+Lochazate  
+
+Da click  pe  posta electronica  
+
+Da click schimpa parola  
+
+Introodu parola noua  
+
+Da click salveaza parola  
+
+Da click  canfirma in posta elecronica sunt eu  
+
+ 
+
+Rezultat asteptat: utilizatorul poate sasi schimpe parola  
+
+Rezultat actual : utilizatorul nu poate sasi schimbe parola  
+
+Atasament: 1.jpg 
+
+Nume QA: veaceslav ipatii  
+
+Nume  programator: radu sarev  
+
+Data : 26.12.24  ora 21:40
